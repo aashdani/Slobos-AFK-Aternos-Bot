@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bohducvidai",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "bố hữu đức đã tạo ra con",
+        "con yêu bố hữu đức",
+        "hduc dzai vcl m ko biết là m ngu"
       ]
     },
     "chat-log": true,
